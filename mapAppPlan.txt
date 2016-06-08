@@ -1,0 +1,19 @@
+https://developers.google.com/maps/pricing-and-plans/
+
+
+
+Setting up api keys
+https://support.google.com/cloud/answer/6158862?hl=en#creating-browser-api-keys
+
+My API key!:
+AIzaSyAF_w-h5-XaR4ObYXxoqhoRSFIDPOUabZo
+
+prevent webcrawlers making api calls
+
+To get the enter name get location things. 
+http://stackoverflow.com/questions/3490622/get-latitude-and-longitude-based-on-location-name-with-google-autocomplete-api
+
+
+Test get location by name:
+
+https://maps.googleapis.com/maps/api/geocode/json?address=San_Antonio&key=AIzaSyAF_w-h5-XaR4ObYXxoqhoRSFIDPOUabZo
