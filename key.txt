@@ -1,0 +1,47 @@
+do you want to encrypt? d
+Here is your encryption: XF
+What do you want to encrypt? e
+Here is your encryption: FG
+What do you want to encrypt? f
+Here is your encryption: AD
+What do you want to encrypt? g
+Here is your encryption: XX
+What do you want to encrypt? h
+Here is your encryption: AF
+What do you want to encrypt? i
+Here is your encryption: DG
+What do you want to encrypt? j
+Here is your encryption: XG
+What do you want to encrypt? k
+Here is your encryption: GG
+What do you want to encrypt? l
+Here is your encryption: DD
+What do you want to encrypt? m
+Here is your encryption: VD
+What do you want to encrypt? n
+Here is your encryption: FV
+What do you want to encrypt? o
+Here is your encryption: VF
+What do you want to encrypt? p
+Here is your encryption: AV
+What do you want to encrypt? q
+Here is your encryption: DF
+What do you want to encrypt? r
+Here is your encryption: DX
+What do you want to encrypt? s
+Here is your encryption: XA
+What do you want to encrypt? t
+Here is your encryption: GX
+What do you want to encrypt? u
+Here is your encryption: DA
+What do you want to encrypt? v
+Here is your encryption: AG
+What do you want to encrypt? w
+Here is your encryption: XV
+What do you want to encrypt? x
+Here is your encryption: GD
+Here is your encryption: GD
+What do you want to encrypt? y
+Here is your encryption: DV
+What do you want to encrypt? z
+Here is your encryption: FX

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+	<head>
+		<title>The organization for pineapples on pizza</title>
+	</head>
+	<!-- https://pixabay.com/p-576551/?no_redirect is background picture-->
+	<body background="pizza.png">
+		<script src="sweetalert-master/dist/sweetalert.min.js"></script> 
+		<link rel="stylesheet" type="text/css" href="sweetalert-master/dist/sweetalert.css">
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<script src="bouncer.js"></script>
+		<script>
+			
+			controlTraffic()
+			swal({  
+				title: "Do you like pineapple pizza?",
+				//text: "You will not be able to recover this imaginary file!",
+				type: "warning",
+				showCancelButton: true,
+				cancelButtonText: "Nope",
+				confirmButtonColor: "#DD6B55",
+				confirmButtonText: "Yes!",
+				closeOnConfirm: false 
+				}, 
+				function(isConfirm){   
+					if (isConfirm){
+						swal("Oh No!", "You have been banned from pineapplepizza.org", "success"); 
+						makeCookie();
+						redirectFools();
+					} else {
+						writeCompliment()
+					}
+					});
+		</script>
+		<!--<p id="compliment"></p>-->
+		<div id="spacer"></div>
+		<div id="coloring"></div> 
+	</body>
+
+</html>
